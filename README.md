@@ -87,9 +87,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## 📬 Contact
 
-For any questions or feedback, feel free to contact:
-
-**Muhammad Saad Ali**  
-🔗 [GitHub Profile](https://github.com/Muhammad-Saad-Ali5491)
